@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace aprendendocsharp
 {
@@ -11,6 +7,8 @@ namespace aprendendocsharp
         static void Main(string[] args)
         {
             Console.WriteLine("Ola Mundo");
+            Console.WriteLine("  dsd  ");
+
         }
     }
 }
